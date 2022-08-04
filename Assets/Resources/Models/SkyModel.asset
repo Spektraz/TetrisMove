@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09d62935404c62e42b3426c19de67c53, type: 3}
+  m_Name: SkyModel
+  m_EditorClassIdentifier: 
+  buySkyList:
+    list:
+    - id: 0
+      value:
+        skyBox: {fileID: 2100000, guid: 5f0805d37aba4bb44a30eeb5ee2e52c7, type: 2}
+        priceSkybox: 0
+    - id: 1
+      value:
+        skyBox: {fileID: 2100000, guid: b699552be08c8d84aa492c5fe0eea970, type: 2}
+        priceSkybox: 50
+    - id: 2
+      value:
+        skyBox: {fileID: 2100000, guid: e7fa0644d5d802546aaf509665d486a7, type: 2}
+        priceSkybox: 100
+    - id: 3
+      value:
+        skyBox: {fileID: 2100000, guid: 9f34afce08b3e334883c84177e5b5718, type: 2}
+        priceSkybox: 150
+    - id: 4
+      value:
+        skyBox: {fileID: 2100000, guid: fa95f52938b0b884e880e6168e95ee16, type: 2}
+        priceSkybox: 200
+    - id: 5
+      value:
+        skyBox: {fileID: 2100000, guid: be37644be96174c4f949dcd232d7962f, type: 2}
+        priceSkybox: 300
+    - id: 6
+      value:
+        skyBox: {fileID: 2100000, guid: d094a9ad8a48d614fa970b56155212e8, type: 2}
+        priceSkybox: 500
